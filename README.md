@@ -1,0 +1,2 @@
+# SEG2105Lab1
+This is SEG2105 Lab 1
