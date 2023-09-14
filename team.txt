@@ -1,1 +1,4 @@
-Gabriel Zohrob
+Gabriel Zohrob (Added fix after merge conflict 3rd)
+Mathew (Added fix after merge conflict 2nd)
+David Malek (Added fix after merge conflict)
+Henry
